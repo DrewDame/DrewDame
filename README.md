@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm [Your Name]
 
-<!-- Optional short about section — keep this concise and recruiter-focused -->
 - 🎯 Focused on software engineering and cybersecurity internships  
 - 🧠 Built tools and applications spanning frontend, backend, and security domains  
 - 🛠️ Projects emphasize real-world use of technologies, not just coursework  
@@ -10,36 +9,40 @@
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 <table>
   <tr>
-    <td valign="top">
-      <strong><a href="https://github.com/your-username/project-1">🔹 Project Name 1</a></strong><br>
-      <em>Brief one-line summary</em><br>
+    <td width="45%" valign="top">
+      <strong><a href="https://github.com/your-username/project-1">🔹 Project Name 1</a></strong><br><br>
+      <em>Brief one-line summary</em><br><br>
       <strong>Tools:</strong> Tool A, Tool B, Tool C<br>
       <strong>Use:</strong> What it's built for
     </td>
-    <td valign="top">
-      <strong><a href="https://github.com/your-username/project-2">🔹 Project Name 2</a></strong><br>
-      <em>Brief one-line summary</em><br>
+    <td width="45%" valign="top">
+      <strong><a href="https://github.com/your-username/project-2">🔹 Project Name 2</a></strong><br><br>
+      <em>Brief one-line summary</em><br><br>
       <strong>Tools:</strong> Tool A, Tool B, Tool C<br>
       <strong>Use:</strong> What it's built for
     </td>
   </tr>
   <tr>
-    <td valign="top">
-      <strong><a href="https://github.com/your-username/project-3">🔹 Project Name 3</a></strong><br>
-      <em>Brief one-line summary</em><br>
+    <td width="45%" valign="top">
+      <strong><a href="https://github.com/your-username/project-3">🔹 Project Name 3</a></strong><br><br>
+      <em>Brief one-line summary</em><br><br>
       <strong>Tools:</strong> Tool A, Tool B, Tool C<br>
       <strong>Use:</strong> What it's built for
     </td>
-    <td valign="top">
-      <strong><a href="https://github.com/your-username/project-4">🔹 Project Name 4</a></strong><br>
-      <em>Brief one-line summary</em><br>
+    <td width="45%" valign="top">
+      <strong><a href="https://github.com/your-username/project-4">🔹 Project Name 4</a></strong><br><br>
+      <em>Brief one-line summary</em><br><br>
       <strong>Tools:</strong> Tool A, Tool B, Tool C<br>
       <strong>Use:</strong> What it's built for
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
