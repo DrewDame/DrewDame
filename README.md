@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Drew Dame
 
 - 🎯 Focused on software engineering and cybersecurity internships  
 - 🧠 Built tools and applications spanning frontend, backend, and security domains  
-- 🛠️ Projects emphasize real-world use of technologies, not just coursework  
+- 🛠️ Projects emphasize real-world use of technologies with a focus on security and user-centered design
 - 🔍 Scroll down to explore featured work  
 
 ---
@@ -14,9 +14,9 @@
 <table>
   <tr>
     <td width="45%" valign="top">
-      <strong><a href="https://github.com/your-username/project-1">🔹 Project Name 1</a></strong><br><br>
-      <em>Brief one-line summary</em><br><br>
-      <strong>Tools:</strong> Tool A, Tool B, Tool C<br>
+      <strong><a href="https://github.com/drewdame/paste-with-peace">🔹 Paste with Peace</a></strong><br><br>
+      <em>Lightweight desktop app that helps prevent credential leaks before they happen</em><br><br>
+      <strong>Tools:</strong> Python, Pytest, PyAutoGUI<br>
       <strong>Use:</strong> What it's built for
     </td>
     <td width="45%" valign="top">
